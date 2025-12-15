@@ -457,5 +457,5 @@ st.markdown("---")
 st.markdown("""
 **📚 Tecnologias utilizadas:** Streamlit, PostGIS, Docker, Python, GeoPandas, PySAL
 
-**🔧 Desenvolvido por:** [Seu Nome] | [GitHub](https://github.com/seu-usuario)
+**🔧 Desenvolvido por:** André Luiz | [GitHub](https://github.com/andre5620)
 """)
