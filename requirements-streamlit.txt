@@ -1,0 +1,29 @@
+# Dependências essenciais
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+geopandas>=0.14.0
+shapely>=2.0.0
+folium>=0.14.0
+streamlit-folium>=0.15.0
+plotly>=5.18.0
+
+# Banco de dados (apenas para desenvolvimento local)
+# psycopg2-binary>=2.9.0
+# sqlalchemy>=2.0.0
+
+# Análise de dados
+scikit-learn>=1.3.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Geo - versões mais estáveis
+pyproj>=3.6.0
+# contextily>=1.3.0  # Pode causar problemas no Streamlit Cloud
+
+# Análise espacial
+libpysal>=4.9.0
+esda>=2.4.0
+# splot>=1.1.0  # Pode ser pesado
+# pyinterpolate>=0.4.0  # Pode ter problemas de instalação
