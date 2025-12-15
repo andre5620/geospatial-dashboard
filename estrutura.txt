@@ -1,0 +1,17 @@
+geospatial-dashboard/
+├── docker-compose.yml
+├── Dockerfile
+├── requirements.txt
+├── .env.example
+├── .gitignore
+├── README.md
+├── data/
+│   ├── sample_data.geojson
+│   └── import_data.py
+├── src/
+│   ├── api_client.py
+│   ├── database.py
+│   ├── esda_analysis.py
+│   └── variogram_model.py
+└── app/
+    └── dashboard.py
