@@ -18,4 +18,5 @@ libpysal>=4.9.0
 esda>=2.4.0
 splot>=1.1.0
 pyinterpolate>=0.4.0
-plotly>=5.18.0
+plotly>=5.18.0"geoalchemy2>=0.14.0"
+geoalchemy2>=0.14.0 
